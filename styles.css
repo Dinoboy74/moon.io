@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(0, 0, 0, 0.967);
+  color: #e0e0e0;
+}
+.img {
+  border-radius: 60px;
+  box-shadow: 12px 12px 20px 5px;
+  width: 400px;
+  height: 400px;
+}
+.info {
+  background-color: rgb(60, 60, 60);
+  color: rgb(253, 253, 253);
+  font-size: 40px;
+  border-radius: 30px;
+  width: 900px;
+  height: 300px;
+}
+.box {
+  background-color: rgb(60, 60, 60);
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  border-radius: 30px;
+  width: 900px;
+  height: 300px;
+  padding: 10px;
+}
+.size {
+  max-width: 1000px;
+  margin: auto;
+}
+.text1 {
+  background-color: rgb(60, 60, 60);
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  border-radius: 30px;
+  width: 900px;
+  height: 400px;
+}
